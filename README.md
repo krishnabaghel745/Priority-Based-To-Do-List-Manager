@@ -1,2 +1,22 @@
-# Priority-Based-To-Do-List-Manager
-The Priority-Based To-Do List Manager is a simple and user-friendly application designed to help users organize and manage their daily tasks efficiently. The system allows users to create tasks, assign priority levels such as High, Medium, and Low, and track their completion status.
+# 📝 Priority-Based To-Do List Manager
+
+## 📌 Description
+This project is a simple task management system that allows users to create, manage, and prioritize daily tasks. It helps improve productivity by organizing tasks based on priority levels such as High, Medium, and Low.
+
+## 🎯 Features
+- Add new tasks
+- Assign priority (High, Medium, Low)
+- Mark tasks as completed
+- Delete tasks
+- Filter tasks based on priority
+- Simple and user-friendly interface
+
+## 🛠️ Tech Stack
+- Python
+- Streamlit
+- JSON (for data storage)
+
+## ⚙️ Installation
+
+```bash
+pip install -r requirements.txt
